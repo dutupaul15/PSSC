@@ -6,5 +6,6 @@ using System.Threading.Tasks;
 
 namespace CosCumparaturi
 {
-   public record ValidatedCart(ClientName name, Id id);
+    //public record ValidatedCart(ClientName name, Id id);
+    public record ValidatedCart(ClientName Name, Id Id, Address Address, Code Code, Quantity Quantity);
 }

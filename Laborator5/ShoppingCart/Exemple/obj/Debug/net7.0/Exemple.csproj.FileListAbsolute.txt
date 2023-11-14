@@ -1,0 +1,242 @@
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/Exemple
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/Exemple.deps.json
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/Exemple.runtimeconfig.json
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/Exemple.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/Exemple.pdb
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/CSharp.Choices.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/CSharp.Choices.Attributes.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/Exemple.Domain.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/bin/Debug/net7.0/Exemple.Domain.pdb
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/obj/Debug/net7.0/Exemple.csproj.AssemblyReference.cache
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/obj/Debug/net7.0/Exemple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/obj/Debug/net7.0/Exemple.AssemblyInfoInputs.cache
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/obj/Debug/net7.0/Exemple.AssemblyInfo.cs
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/obj/Debug/net7.0/Exemple.csproj.CoreCompileInputs.cache
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/obj/Debug/net7.0/Exemple.csproj.CopyComplete
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/obj/Debug/net7.0/Exemple.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/obj/Debug/net7.0/refint/Exemple.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/obj/Debug/net7.0/Exemple.pdb
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/obj/Debug/net7.0/Exemple.genruntimeconfig.cache
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple/obj/Debug/net7.0/ref/Exemple.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/Exemple
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/Exemple.deps.json
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/Exemple.runtimeconfig.json
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/Exemple.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/Exemple.pdb
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/CSharp.Choices.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/CSharp.Choices.Attributes.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/Exemple.Domain.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/bin/Debug/net7.0/Exemple.Domain.pdb
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/obj/Debug/net7.0/Exemple.csproj.AssemblyReference.cache
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/obj/Debug/net7.0/Exemple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/obj/Debug/net7.0/Exemple.AssemblyInfoInputs.cache
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/obj/Debug/net7.0/Exemple.AssemblyInfo.cs
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/obj/Debug/net7.0/Exemple.csproj.CoreCompileInputs.cache
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/obj/Debug/net7.0/Exemple.csproj.CopyComplete
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/obj/Debug/net7.0/Exemple.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/obj/Debug/net7.0/refint/Exemple.dll
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/obj/Debug/net7.0/Exemple.pdb
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/obj/Debug/net7.0/Exemple.genruntimeconfig.cache
+/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple/obj/Debug/net7.0/ref/Exemple.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\Exemple.exe
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\Exemple.deps.json
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\Exemple.runtimeconfig.json
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\Exemple.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\Exemple.pdb
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\CSharp.Choices.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\CSharp.Choices.Attributes.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\Exemple.Domain.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\bin\Debug\net7.0\Exemple.Domain.pdb
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\obj\Debug\net7.0\Exemple.csproj.AssemblyReference.cache
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\obj\Debug\net7.0\Exemple.GeneratedMSBuildEditorConfig.editorconfig
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\obj\Debug\net7.0\Exemple.AssemblyInfoInputs.cache
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\obj\Debug\net7.0\Exemple.AssemblyInfo.cs
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\obj\Debug\net7.0\Exemple.csproj.CoreCompileInputs.cache
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\obj\Debug\net7.0\Exemple.csproj.CopyComplete
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\obj\Debug\net7.0\Exemple.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\obj\Debug\net7.0\refint\Exemple.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\obj\Debug\net7.0\Exemple.pdb
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\obj\Debug\net7.0\Exemple.genruntimeconfig.cache
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator3\AlexGaita\TEMA3\Exemple\obj\Debug\net7.0\ref\Exemple.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\obj\Debug\net7.0\Exemple.csproj.AssemblyReference.cache
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\obj\Debug\net7.0\Exemple.GeneratedMSBuildEditorConfig.editorconfig
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\obj\Debug\net7.0\Exemple.AssemblyInfoInputs.cache
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\obj\Debug\net7.0\Exemple.AssemblyInfo.cs
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\obj\Debug\net7.0\Exemple.csproj.CoreCompileInputs.cache
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\obj\Debug\net7.0\Exemple.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\obj\Debug\net7.0\refint\Exemple.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\obj\Debug\net7.0\Exemple.pdb
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Exemple.exe
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Exemple.deps.json
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Exemple.runtimeconfig.json
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Exemple.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Exemple.pdb
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\CSharp.Choices.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\CSharp.Choices.Attributes.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Exemple.Domain.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Exemple.Domain.pdb
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\obj\Debug\net7.0\Exemple.csproj.CopyComplete
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\obj\Debug\net7.0\Exemple.genruntimeconfig.cache
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\obj\Debug\net7.0\ref\Exemple.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Azure.Core.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Azure.Identity.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\LanguageExt.Core.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\System.Memory.Data.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Exemple.Data.dll
+C:\FACULTATE\ANUL al IV-lea\Semestrul I\PSSC\Laborator5\TEMA3\Exemple\bin\Debug\net7.0\Exemple.Data.pdb

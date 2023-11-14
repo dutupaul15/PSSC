@@ -11,10 +11,7 @@ namespace CosCumparaturi
 
         public string Value { get; }
 
-        private ClientName(string value)
-        {
-            Value = value;
-        }
+        private ClientName(string value) => Value = value;
         public override string ToString()
         {
             return Value;

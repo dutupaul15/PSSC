@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yArT11IZjZrAz7FtmMibze2Dwfc9EEjNpVnashNEGIxcIs0mJaG98x9w5xzOrFr8kRDSmJw+uWN3M2TYlrOi/g==",
+  "dgSpecHash": "cLkpuVLlnHLP5KnM8MiFgjWbqFGsUDfM9KjVvCa97sYsS9PnZryzubXpPuHJw88qp4iA6ZNdNlp1uAhHqRhjZQ==",
   "success": true,
-  "projectFilePath": "C:\\FACULTATE\\ANUL al IV-lea\\Semestrul I\\PSSC\\Laborator2\\CosCumparaturi\\CosCumparaturi\\CosCumparaturi.csproj",
+  "projectFilePath": "C:\\FACULTATE\\ANUL al IV-lea\\Semestrul I\\PSSC\\git repo\\Laborator2\\CosCumparaturi\\CosCumparaturi\\CosCumparaturi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dutu_\\.nuget\\packages\\csharp.choices\\2.1.1\\csharp.choices.2.1.1.nupkg.sha512",
     "C:\\Users\\dutu_\\.nuget\\packages\\csharp.choices.attributes\\2.1.1\\csharp.choices.attributes.2.1.1.nupkg.sha512",

@@ -13,10 +13,9 @@ namespace CosCumparaturi
         public interface IShoppingCart { }
         public record EmptyShoppingCart(IReadOnlyCollection<UnvalidatedCart> ProductsList) : IShoppingCart;
 
-        public record InvalidatedShoppingCart(IReadOnlyCollection<UnvalidatedCart> ProductsList, string reason) : IShoppingCart;
+        public record InvalidatedShoppingCart(IReadOnlyCollection<UnvalidatedCart> ProductsList, string Reason) : IShoppingCart;
 
         public record ValidatedShoppingCart(IReadOnlyCollection<ValidatedCart> ProductsList) : IShoppingCart;
-
-        public record PublishedShoppingCart(IReadOnlyCollection<ValidatedCart> ProductsList, DateTime PublishedDate) : IShoppingCart;
+        public record PurchasedShoppingCart(IReadOnlyCollection<ValidatedCart> ProductsList, DateTime PublishedDate) : IShoppingCart;
     }
 }

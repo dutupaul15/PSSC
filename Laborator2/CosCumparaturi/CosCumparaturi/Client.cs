@@ -6,15 +6,14 @@ using System.Threading.Tasks;
 
 namespace CosCumparaturi
 {
-    internal class Client
+    public class Client
     {
-        public string name, id;
-
-        public Client(string name, string id)
+        public string name, id, address;
+        public Client(string name, string id, string address)
         {
             this.name = name;
             this.id = id;
+            this.address = address;
         }
-
     }
 }

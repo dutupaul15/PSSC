@@ -6,7 +6,7 @@ namespace CosCumparaturi
 {
     class Program
     {
-        private static readonly Random random = new Random();
+        private static readonly Random random = new();
         static void Main(string[] args)
         {
             var listofClients = ReadListOfClients().ToArray();
@@ -14,9 +14,9 @@ namespace CosCumparaturi
             IShoppingCart result = ValidateCart(unvalidatedCart);
             result.Match(
                 whenEmptyShoppingCart: unvalidatedResult => unvalidatedCart,
-                whenPublishedShoppingCart: publishedResult => publishedResult,
+                whenPurchasedShoppingCart: publishedResult => publishedResult,
                 whenInvalidatedShoppingCart: invalidResult => invalidResult,
-                whenValidatedShoppingCart: validatedResult => PublishExamGrades(validatedResult)
+                whenValidatedShoppingCart: validatedResult => PurchasedShoppingCart(validatedResult)
             );
 
             Console.WriteLine("Iesire din program");
@@ -54,7 +54,7 @@ namespace CosCumparaturi
                     break;
                 }
 
-                listOfClients.Add(new(id, name, code, address, quantity));
+                listOfClients.Add(new(name, id, address, code, quantity));
             } while (true);
             Console.Write("Numarul de clienti ai magazinul este: ");
             Console.WriteLine(listOfClients.Count);
@@ -65,8 +65,14 @@ namespace CosCumparaturi
           new InvalidatedShoppingCart(new List<UnvalidatedCart>(), "Random errror")
           : new ValidatedShoppingCart(new List<ValidatedCart>());
 
-        private static IShoppingCart PublishExamGrades(ValidatedShoppingCart validCart) =>
-            new PublishedShoppingCart(new List<ValidatedCart>(), DateTime.Now);
+        private static IShoppingCart PurchasedShoppingCart(ValidatedShoppingCart validCart)
+        {
+
+            if (validCart == null) { Console.WriteLine("validCart is null"); };
+            Console.WriteLine(validCart);
+            return new PurchasedShoppingCart(new List<ValidatedCart>(), DateTime.Now);
+        }
+            
 
         private static string? ReadValue(string prompt)
         {

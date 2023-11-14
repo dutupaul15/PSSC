@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FACULTATE\\ANUL al IV-lea\\Semestrul I\\PSSC\\Laborator2\\CosCumparaturi\\CosCumparaturi\\CosCumparaturi.csproj",
+      "projectUniqueName": "C:\\FACULTATE\\ANUL al IV-lea\\Semestrul I\\PSSC\\git repo\\Laborator2\\CosCumparaturi\\CosCumparaturi\\CosCumparaturi.csproj",
       "projectName": "CosCumparaturi",
-      "projectPath": "C:\\FACULTATE\\ANUL al IV-lea\\Semestrul I\\PSSC\\Laborator2\\CosCumparaturi\\CosCumparaturi\\CosCumparaturi.csproj",
+      "projectPath": "C:\\FACULTATE\\ANUL al IV-lea\\Semestrul I\\PSSC\\git repo\\Laborator2\\CosCumparaturi\\CosCumparaturi\\CosCumparaturi.csproj",
       "packagesPath": "C:\\Users\\dutu_\\.nuget\\packages\\",
-      "outputPath": "C:\\FACULTATE\\ANUL al IV-lea\\Semestrul I\\PSSC\\Laborator2\\CosCumparaturi\\CosCumparaturi\\obj\\",
+      "outputPath": "C:\\FACULTATE\\ANUL al IV-lea\\Semestrul I\\PSSC\\git repo\\Laborator2\\CosCumparaturi\\CosCumparaturi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
