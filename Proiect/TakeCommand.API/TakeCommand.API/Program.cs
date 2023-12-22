@@ -3,11 +3,20 @@ using TakeCommand.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
+
 // Add services to the container.
 builder.Services.AddDbContext<ShopContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
-    options.EnableSensitiveDataLogging();
+    var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+    var serverVersion = new MySqlServerVersion(new Version(8, 0, 29));
+
+    options.UseMySql(connectionString, serverVersion)
+                 // The following three options help with debugging, but should
+                 // be changed or removed for production.
+                 .LogTo(Console.WriteLine, LogLevel.Information)
+                 .EnableSensitiveDataLogging()
+                 .EnableDetailedErrors();
 });
 
 
